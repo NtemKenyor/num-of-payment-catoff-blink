@@ -1,0 +1,14 @@
+# Rust
+/target/
+Cargo.lock
+
+# Solana
+*.json
+*.so
+*.dSYM/
+
+# VSCode
+.vscode/
+
+# Local environment files
+.env
